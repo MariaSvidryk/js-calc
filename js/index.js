@@ -33,7 +33,7 @@ function calculate() {
 document.querySelector(".clear").addEventListener("click", resetCalculator);
 
 function resetCalculator() {
-  display.value = "0";
+  display.value = " ";
 }
 
 
